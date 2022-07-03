@@ -7,6 +7,7 @@ https://elmas3.github.io/mao-seminar/
 魔王
 エルさん
 わかば
+おおおs
 
 # ディレクトリ構成
 ```
